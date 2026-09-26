@@ -18,7 +18,7 @@ can tune noise strength/statistics without touching any code.
 Clone the repo and install in editable mode:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HuanhuanZhao08/stm_noise
 cd stm_noise
 pip install -e .
 ```

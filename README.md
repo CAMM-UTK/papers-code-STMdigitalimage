@@ -65,7 +65,7 @@ noisy_image = add_noise("data/clean_images/example.npy", config)
 saved_paths = batch_add_noise(config)
 ```
 
-See `examples/run_example.py` for a full runnable example with plotting.
+See `examples/run_example.py` and `examples/run_example.ipynb` for a full runnable example with plotting.
 
 ### 3. Individual noise functions
 

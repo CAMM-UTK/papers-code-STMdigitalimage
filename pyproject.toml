@@ -1,0 +1,28 @@
+[project]
+name = "stm-noise"
+version = "0.1.0"
+description = "Simulate realistic noise (Gaussian, 1/f flicker, stripes, paraboloid background, row drift) on clean STM images"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Huanhuan Zhao", email = "hzhao31@vols.utk.edu" }]
+dependencies = [
+    "numpy",
+    "scipy",
+    "opencv-python",
+    "pyyaml",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+stm-noise = "stm_noise.cli:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

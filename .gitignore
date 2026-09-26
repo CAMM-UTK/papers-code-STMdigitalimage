@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+*.npy
+*.npz
+data/
+Denoise_graphene/
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+name: stm-noise
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - pyyaml
+  - pip
+  - pip:
+      - opencv-python

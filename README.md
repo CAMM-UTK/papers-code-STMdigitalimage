@@ -7,11 +7,9 @@ Simulate realistic noise on clean STM (Scanning Tunneling Microscopy) images.
 ![Pipeline overview](https://raw.githubusercontent.com/HuanhuanZhao08/stm_noise/main/docs/images/fig4.png)
 
 
-*The toolkit generates physics-informed synthetic STM noises, can be combined with any kinds of STM simulated images, 
-form clean/noisy image pairs for training
-denoising models. Trained models effectively denoise experimental STM images while
-preserving true physical features — including atomic structure and electron
-wave patterns.*
+*The toolkit generates physics-informed synthetic STM noise that can be combined with any simulated STM image 
+to form clean/noisy training pairs for denoising models. Models trained this way effectively denoise experimental
+ STM images while preserving true physical features*
 
 For full methodology and quantitative validation, see our paper: [Paper Title/Link]
 

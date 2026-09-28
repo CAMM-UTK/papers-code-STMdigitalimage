@@ -11,7 +11,7 @@ Simulate realistic noise on clean STM (Scanning Tunneling Microscopy) images.
 form clean/noisy image pairs for training
 denoising models. Trained models effectively denoise experimental STM images while
 preserving true physical features — including atomic structure and electron
-wave patterns. *
+wave patterns.*
 
 For full methodology and quantitative validation, see our paper: [Paper Title/Link]
 

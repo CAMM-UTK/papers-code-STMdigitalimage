@@ -11,8 +11,8 @@ Simulate realistic noise on clean STM (Scanning Tunneling Microscopy) images.
 to form clean/noisy training pairs for denoising models. Models trained this way effectively denoise experimental
  STM images while preserving true physical features*
 
-For full methodology and quantitative validation, see our paper: [A Digital Simulation Toolkit for Physics-Based Generation of Realistic
-  Experimental Scanning Tunneling Microscopy Images/[Link](http://arxiv.org/abs/2609.36639)]
+For full methodology and quantitative validation, see our paper: **A Digital Simulation Toolkit for Physics-Based Generation of Realistic
+  Experimental Scanning Tunneling Microscopy Images**/[Link](http://arxiv.org/abs/2609.36639)
 
 
 

@@ -1,3 +1,16 @@
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2609.36639-B31B1B.svg)](https://arxiv.org/abs/2609.36639)
+
+
+# A Digital Simulation Toolkit for Physics-Based Generation of Realistic Experimental Scanning Tunneling Microscopy Images
+
+**Huanhuan Zhao**, **Laxmi Bhurtel**, **Connor Vernachio**, *Fahmy Paiziah*, **Wonhee Ko**, **Arpan Biswas**
+
+[arXiv:2609.36639](https://arxiv.org/abs/2609.36639)
+
+-Authors in BOLD are afflifated at UTK-CAMM under NSF-MRSEC IRG1.
+
+-Authors in ITALICS were REU worked as SMART Intern at UTK-CAMM.
+
 # stm_noise
 
 Simulate realistic noise on clean STM (Scanning Tunneling Microscopy) images.
